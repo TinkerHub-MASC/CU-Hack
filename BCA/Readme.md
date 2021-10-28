@@ -74,7 +74,17 @@
    <summary>Semester 4</summary>
 <br>
    
-* 
+* Data Communication and Optical Fibers 
+   
+* Microprocessors-Architecture and Programming 
+   
+* Database Management System and RDBMS
+   
+* Programming Laboratory II: Data Structures and RDBMS 
+   
+* E-Commerce
+   
+* Computer Graphics 
 
 
 
