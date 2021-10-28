@@ -5,7 +5,13 @@
 <details>
    <summary>Semester 1</summary>
 <br>
-   
+  * Common English (Transaction)
+
+* Commmon English (ways with words) 
+* Language other than English 
+* Computer fundamentals & HTML 
+* Complementary mathematics 1 
+* Optional complementary 1 (Statistics)
 
 
 
