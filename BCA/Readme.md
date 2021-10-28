@@ -3,7 +3,7 @@
 ## Semester 1
 
 ### Syllabus
-* Common English  [youtube](https://youtubecom)
+* Common English  [youtube](https://www.youtube.com/)
 * Common English
 * Languages other than English
 * Computer Fundamentals & HTML
