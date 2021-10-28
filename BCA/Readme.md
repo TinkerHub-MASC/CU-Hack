@@ -3,11 +3,7 @@
 ## Sem 1
 
 ### Syllabus
-* [Html](https://github.com/TinkerHub-MASC/CU-Hack/blob/bca/BCA/Readme.md)
-* hdhd
-* jsdhjdhjs
-* jdhsjdhsjd
-* skjksdfksfhh
+
 
 ******
 
