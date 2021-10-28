@@ -26,11 +26,13 @@
    <summary>Semester 2</summary>
 <br>
 
-* 
-
-
-
-
+* Common English
+* Common English 
+* Literature in Languages other than English   
+* Problem solving using C 
+* Programming Laboratory 1: HTML and programming in C
+* Complementary Mathematics 2
+* Optional complementary 2
 
 </details>
 
