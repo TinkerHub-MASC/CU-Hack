@@ -29,10 +29,19 @@
    <summary>Semester 2</summary>
 <br>
 
-* 
+* Common English (Transaction)
+   
+* Common English
 
+* Literature in Languages other than English 
 
+* Problem Solving using C 
+   
+* Programming Laboratory I: HTML and Programming in C 
 
+* Financial and Management Accounting 
+  
+* Operations Research 
 
 
 </details>
