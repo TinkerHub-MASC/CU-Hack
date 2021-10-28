@@ -1,6 +1,6 @@
 # BCA
 
-## Sem 1
+## Semester 1
 
 ### Syllabus
 * Common English
@@ -12,35 +12,35 @@
 
 ******
 
-## Sem 2
+## Semester 2
 
 ### Syllabus
 * 
 
 ******
 
-## Sem 3
+## Semester 3
 
 ### Syllabus
 * 
 
 ******
 
-## Sem 4
+## Semester 4
 
 ### Syllabus
 * 
 
 ******
 
-## Sem 5
+## Semester 5
 
 ### Syllabus
 * 
 
 ******
 
-## Sem 6
+## Semester 6
 
 ### Syllabus
 * 
