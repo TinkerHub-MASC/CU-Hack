@@ -40,11 +40,11 @@
    <summary>Semester 3</summary>
 <br>
    
-* 
-
-
-
-
+* Python programming
+* sensors and Transducers
+* Data structures using C
+* Complementary mathematics 3
+* Optional complementary 3
 
 </details>
 
