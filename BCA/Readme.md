@@ -1,4 +1,4 @@
-# BCA
+<h1 align=center> BCA</h1>
 
 ## Semester 1
 
