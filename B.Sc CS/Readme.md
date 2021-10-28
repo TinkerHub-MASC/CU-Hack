@@ -56,12 +56,12 @@
    <summary>Semester 4</summary>
 <br>
    
-* 
-
-
-
-
-
+* Data communication and optical fibrers 
+* Micro processors - Architecture and programming
+* Database management system and RDBMS
+* Programming Laboratory 2: Data structures and RDBMS 
+* Complementary Mathematics 4 
+* Optional complementary 4
 
 </details>
 
