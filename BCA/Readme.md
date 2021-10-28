@@ -1,8 +1,8 @@
 <h1 align=center> BCA</h1>
 
-## Semester 1
+## Syllubus
 
-### Syllabus
+### Semester 1
 * Common English (Transaction)
    
   * [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=20 width=20></img>](https://www.youtube.com/)      
@@ -17,9 +17,9 @@
 ******
 
 
-## Semester 2
 
-### Syllabus
+
+### Semester 2
 * 
 <details>
 <summary>How do I dropdown?</summary>
@@ -30,36 +30,34 @@ This is how you dropdown.
 ******
 
 
-## Semester 3
 
-### Syllabus
+
+### Semester 3
 * 
 
 
 ******
 
 
-## Semester 4
 
-### Syllabus
+
+### Semester 4
 * 
 
 
 ******
 
 
-## Semester 5
 
-### Syllabus
+### Semester 5
 * 
 
 
 ******
 
 
-## Semester 6
 
-### Syllabus
+### Semester 6
 * 
 
 
