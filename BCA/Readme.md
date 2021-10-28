@@ -15,33 +15,34 @@
 ## Sem 2
 
 ### Syllabus
-
+* 
 
 ******
 
 ## Sem 3
 
 ### Syllabus
-
+* 
 
 ******
 
 ## Sem 4
 
 ### Syllabus
-
+* 
 
 ******
 
 ## Sem 5
 
 ### Syllabus
-
+* 
 
 ******
 
 ## Sem 6
 
 ### Syllabus
+* 
 
 ******
