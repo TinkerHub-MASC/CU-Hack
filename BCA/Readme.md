@@ -52,7 +52,15 @@
    <summary>Semester 3</summary>
 <br>
    
-* 
+* Python Programming 
+
+* Sensors and Transducers
+   
+* Data Structures using C 
+   
+* Computer Oriented Numerical and Statistical Methods 
+   
+* Theory of Computation
 
 
 
