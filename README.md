@@ -1,4 +1,4 @@
 # CU-Hack
 
-## Syllabus
+## Courses
 * [C](https://github.com/TinkerHub-MASC/CU-Hack/wiki)
