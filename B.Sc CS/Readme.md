@@ -26,11 +26,13 @@
    <summary>Semester 2</summary>
 <br>
 
-* 
-
-
-
-
+* Common English
+* Common English 
+* Literature in Languages other than English   
+* Problem solving using C 
+* Programming Laboratory 1: HTML and programming in C
+* Complementary Mathematics 2
+* Optional complementary 2
 
 </details>
 
@@ -54,12 +56,12 @@
    <summary>Semester 4</summary>
 <br>
    
-* 
-
-
-
-
-
+* Data communication and optical fibrers 
+* Micro processors - Architecture and programming
+* Database management system and RDBMS
+* Programming Laboratory 2: Data structures and RDBMS 
+* Complementary Mathematics 4 
+* Optional complementary 4
 
 </details>
 
