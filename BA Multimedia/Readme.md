@@ -1,13 +1,92 @@
-# BA Multimedia
 
-## Semester 1
 
-### Syllabus
-* Common course: English
-* Common course: English
-* Common course: Additional Language
-* Core Course 1: Introduction to Digital Media 
-* Complementary course 1: Journalism
-* Complementary course 2: Visual Communication 
+<h1 align=center>BA Multimedia</h1>
 
-*******
+## Syllubus
+
+<details>
+   <summary>Semester 1</summary>
+<br>
+   
+
+
+
+
+
+
+</details>
+
+******
+
+<details>
+   <summary>Semester 2</summary>
+<br>
+
+* 
+
+
+
+
+
+</details>
+
+******
+
+<details>
+   <summary>Semester 3</summary>
+<br>
+   
+* 
+
+
+
+
+
+</details>
+
+******
+
+<details>
+   <summary>Semester 4</summary>
+<br>
+   
+* 
+
+
+
+
+
+
+</details>
+
+******
+
+<details>
+   <summary>Semester 5</summary>
+<br>
+   
+* 
+
+
+
+
+
+
+</details>
+
+******
+
+<details>
+   <summary>Semester 6</summary>
+<br>
+   
+* 
+
+
+
+
+
+</details>
+
+******
+
