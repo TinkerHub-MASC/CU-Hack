@@ -17,52 +17,82 @@
 * Discrete Mathematics
 
 
+
+
+
+
 </details>
 
-
-
-
 ******
 
+<details>
+   <summary>Semester 2</summary>
+<br>
 
-
-
-### Semester 2
 * 
 
 
-******
 
 
 
-
-### Semester 3
-* 
-
+</details>
 
 ******
 
-
-
-
-### Semester 4
+<details>
+   <summary>Semester 3</summary>
+<br>
+   
 * 
 
+
+
+
+
+</details>
 
 ******
 
-
-
-### Semester 5
+<details>
+   <summary>Semester 4</summary>
+<br>
+   
 * 
 
+
+
+
+
+
+</details>
 
 ******
 
-
-
-### Semester 6
+<details>
+   <summary>Semester 5</summary>
+<br>
+   
 * 
 
+
+
+
+
+
+</details>
+
+******
+
+<details>
+   <summary>Semester 6</summary>
+<br>
+   
+* 
+
+
+
+
+
+</details>
 
 ******
