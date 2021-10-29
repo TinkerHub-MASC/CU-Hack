@@ -103,7 +103,10 @@
 * Introduction to Animation-II
 
 
+* Projects
 
+* Animation Project
+* Video Project
 
 
 
