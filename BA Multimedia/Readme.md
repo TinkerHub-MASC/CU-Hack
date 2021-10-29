@@ -104,9 +104,9 @@
 
 
 * Projects
-
-* Animation Project
-* Video Project
+	
+  * Animation Project
+  * Video Project
 
 
 
