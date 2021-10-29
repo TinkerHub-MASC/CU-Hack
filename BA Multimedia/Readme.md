@@ -22,7 +22,12 @@
    <summary>Semester 2</summary>
 <br>
 
-* 
+* Common course: English-1
+* Common course: English-2
+* Common course: Additional Language 
+* Core Course 2: Creativity and Design Skills 
+* Complementary course 3: Journalism
+* Complementary course 4:  Visual Communication 
 
 
 
