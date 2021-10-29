@@ -89,7 +89,14 @@
    <summary>Semester 6</summary>
 <br>
    
-* 
+* Editing Principles-II
+
+	
+* Electronic Journalism
+
+	
+* Introduction to Animation-II
+
 
 
 
