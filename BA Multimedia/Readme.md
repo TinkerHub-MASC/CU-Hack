@@ -79,7 +79,7 @@
 * Introduction to Animation-I
 
 	
-* Media Ethics
+* Media Ethics (https://youtu.be/-qf8gVtdEXs)
 
 	
 * Print Journalism
