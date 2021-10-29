@@ -73,7 +73,7 @@
    <summary>Semester 5</summary>
 <br>
    
-* Editing Principles-I
+* Editing Principles-I(https://youtu.be/UsiQFEwMUyw?t=2)
 
 	
 * Introduction to Animation-I
