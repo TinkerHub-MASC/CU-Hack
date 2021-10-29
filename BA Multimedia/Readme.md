@@ -7,12 +7,20 @@
 <details>
    <summary>Semester 1</summary>
 <br>
-   
+ 
+ *Art and Visual Perception-I
 
 
+*Computer Fundamentals
 
+	
+*Drawing for Animation
 
+	
+*English I: Creative Writing
 
+	
+*Still Photography 
 
 </details>
 
