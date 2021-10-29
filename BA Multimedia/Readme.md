@@ -73,14 +73,19 @@
    <summary>Semester 5</summary>
 <br>
    
-* Editing Principles-II
+* Editing Principles-I
 
 	
-* Electronic Journalism
+* Introduction to Animation-I
 
 	
-* Introduction to Animation-II
+* Media Ethics
 
+	
+* Print Journalism
+
+	
+* Scenic Design: Film and Television-II
 </details>
 
 ******
