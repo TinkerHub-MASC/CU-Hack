@@ -73,12 +73,13 @@
    <summary>Semester 5</summary>
 <br>
    
-* 
+* Editing Principles-II
 
+	
+*Electronic Journalism
 
-
-
-
+	
+*Introduction to Animation-II
 
 </details>
 
