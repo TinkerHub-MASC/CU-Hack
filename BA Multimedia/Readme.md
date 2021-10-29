@@ -82,7 +82,7 @@
 * Media Ethics (https://youtu.be/-qf8gVtdEXs)
 
 	
-* Print Journalism
+* Print Journalism(https://youtu.be/x64wziWkC84?t=3)
 
 	
 * Scenic Design: Film and Television-II
