@@ -11,7 +11,7 @@
  * Art and Visual Perception-I
 
 
-* Computer Fundamentals
+* Computer Fundamentals(https://youtu.be/eEo_aacpwCw?t=9)
 
 	
 * Drawing for Animation
