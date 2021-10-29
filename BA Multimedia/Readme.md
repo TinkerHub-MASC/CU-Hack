@@ -8,19 +8,19 @@
    <summary>Semester 1</summary>
 <br>
  
- *Art and Visual Perception-I
+ * Art and Visual Perception-I
 
 
-*Computer Fundamentals
-
-	
-*Drawing for Animation
+* Computer Fundamentals
 
 	
-*English I: Creative Writing
+* Drawing for Animation
 
 	
-*Still Photography 
+* English I: Creative Writing
+
+	
+* Still Photography 
 
 </details>
 
@@ -76,10 +76,10 @@
 * Editing Principles-II
 
 	
-*Electronic Journalism
+* Electronic Journalism
 
 	
-*Introduction to Animation-II
+* Introduction to Animation-II
 
 </details>
 
