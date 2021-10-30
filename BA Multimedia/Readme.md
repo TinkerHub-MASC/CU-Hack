@@ -58,7 +58,19 @@
    <summary>Semester 4</summary>
 <br>
    
-* 
+* Audiography-II
+
+	
+* Film and Videography-II
+
+	
+* Introduction to Graphic Design-II
+
+	
+* Study of Fiction
+
+	
+* Scenic Design: Film and Television-I 
 
 
 
