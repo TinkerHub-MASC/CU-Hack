@@ -7,12 +7,20 @@
 <details>
    <summary>Semester 1</summary>
 <br>
-   
+ 
+ * Art and Visual Perception-I
 
 
+* Computer Fundamentals(https://youtu.be/eEo_aacpwCw?t=9)
 
+	
+* Drawing for Animation
 
+	
+* English I: Creative Writing(https://youtu.be/jW52IWzoPLo)
 
+	
+* Still Photography 
 
 </details>
 
@@ -75,13 +83,19 @@
    <summary>Semester 5</summary>
 <br>
    
-* 
+* Editing Principles-I(https://youtu.be/UsiQFEwMUyw?t=2)
 
+	
+* Introduction to Animation-I
 
+	
+* Media Ethics (https://youtu.be/-qf8gVtdEXs)
 
+	
+* Print Journalism(https://youtu.be/x64wziWkC84?t=3)
 
-
-
+	
+* Scenic Design: Film and Television-II
 </details>
 
 ******
@@ -90,9 +104,19 @@
    <summary>Semester 6</summary>
 <br>
    
-* 
+* Editing Principles-II
+
+	
+* Electronic Journalism
+
+	
+* Introduction to Animation-II
 
 
+* Projects
+	
+  * Animation Project
+  * Video Project
 
 
 
