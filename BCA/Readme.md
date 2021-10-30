@@ -99,7 +99,11 @@
    <summary>Semester 5</summary>
 <br>
    
-* 
+* Computer Organization and Architecture
+* Java Programming  
+* Web Programming Using PHP
+* Principles of Software Engineering
+* Open Course
 
 
 
