@@ -93,7 +93,8 @@
    <summary>Semester 6</summary>
 <br>
    
-* 
+* Introduction to Web Technology
+* Project Work
 
 
 
