@@ -71,7 +71,14 @@
    <summary>Semester 5</summary>
 <br>
    
-* 
+* Python programming
+   
+* Introduction to Software Engineering	Project Work
+   
+* Mobile Application Development
+   
+* Personality Development Program
+
 
 
 
