@@ -99,17 +99,17 @@
    <summary>Semester 5</summary>
 <br>
    
-*Computer Organization and Architecture
+* Computer Organization and Architecture
    
-*Java Programming
+* Java Programming
    
-*Web Programming Using PHP
+* Web Programming Using PHP
    
-*Principles of Software Engineering
+* Principles of Software Engineering
    
-*Open Course
+* Open Course
 
-*[<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/) 
+* [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/) 
 
 
 
@@ -123,19 +123,19 @@
 <details>
    <summary>Semester 6</summary>
 <br>
-*Android Programming
+* Android Programming
    
-*Operating Systems
+* Operating Systems
    
-*Computer Networks
+* Computer Networks
    
-*Programming Laboratory III: Java and PHP Programming
+* Programming Laboratory III: Java and PHP Programming
    
-*Programming Laboratory IV: Android and Linux shell Programming
+* Programming Laboratory IV: Android and Linux shell Programming
    
-*Elective Course
+* Elective Course
    
-*Project Work
+* Project Work
    
    
    
