@@ -30,12 +30,21 @@
    <summary>Semester 2</summary>
 <br>
 
+<<
+* Common course: English-1
+* Common course: English-2
+* Common course: Additional Language 
+* Core Course 2: Creativity and Design Skills 
+* Complementary course 3: Journalism
+* Complementary course 4:  Visual Communication 
+=======
 * Common course: English-1 [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/) 
 * Common course: English-2 [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/) 
 * Common course: Additional Language [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/) 
 * Core Course 2: Creativity and Design Skills [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/) 
 * Complementary course 3: Journalism [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/) 
 * Complementary course 4:  Visual Communication [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/) 
+
 
 
 
