@@ -29,19 +29,23 @@
    <summary>Semester 2</summary>
 <br>
 
-* Common English (Transaction)
+* Common English (Transaction) - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
    
-* Common English
+* Common English - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
 
 * Literature in Languages other than English 
 
-* Problem Solving using C 
-   
-* Programming Laboratory I: HTML and Programming in C 
+   * Arabic - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+   * Malayalam- [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+   * Hindi- [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
 
-* Financial and Management Accounting 
+* Problem Solving using C  - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+   
+* Programming Laboratory I: HTML and Programming in C  - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+
+* Financial and Management Accounting  - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
   
-* Operations Research 
+* Operations Research  - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/watch?v=bj5i4pP7FW8&list=PLpcxIhM1pan3ROzxrT7b8007Q7La8f38E)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
 
 
 </details>
@@ -52,15 +56,20 @@
    <summary>Semester 3</summary>
 <br>
    
-* Python Programming 
+* Python Programming  - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
 
-* Sensors and Transducers
+
+* Sensors and Transducers - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+
    
-* Data Structures using C 
+* Data Structures using C  - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+
    
-* Computer Oriented Numerical and Statistical Methods 
+* Computer Oriented Numerical and Statistical Methods  - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+
    
-* Theory of Computation
+* Theory of Computation - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/watch?v=C6p0-cUAxeI&list=PLpcxIhM1pan1H5A3FNsWK0lDDCpiNw_Pj)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+
 
 
 
@@ -74,17 +83,23 @@
    <summary>Semester 4</summary>
 <br>
    
-* Data Communication and Optical Fibers 
+* Data Communication and Optical Fibers   - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+
    
-* Microprocessors-Architecture and Programming 
+* Microprocessors-Architecture and Programming   - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+
    
-* Database Management System and RDBMS
+* Database Management System and RDBMS  - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+
    
-* Programming Laboratory II: Data Structures and RDBMS 
+* Programming Laboratory II: Data Structures and RDBMS   - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+
    
-* E-Commerce
+* E-Commerce  - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+
    
-* Computer Graphics 
+* Computer Graphics   - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+
 
 
 
@@ -99,11 +114,16 @@
    <summary>Semester 5</summary>
 <br>
    
-* Computer Organization and Architecture
-* Java Programming  
-* Web Programming Using PHP
-* Principles of Software Engineering
-* Open Course
+* Computer Organization and Architecture  - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+
+* Java Programming    - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+
+* Web Programming Using PHP  - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/watch?v=2cGGuAkotXQ&list=PLpcxIhM1pan2ggTFV5QFeXlpkSsQ_oV46)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+
+* Principles of Software Engineering  - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+
+* Open Course  - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+
 
 
 
@@ -118,13 +138,20 @@
    <summary>Semester 6</summary>
 <br>
    
-* Android Programming
-* Operating Systems
-* Computer Networks
-* Programming Laboratory III: Java and PHP Programming
-* Programming Laboratory IV: Android and Linux shell Programing
-* Elective Course
-* Project Work
+* Android Programming  - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+
+* Operating Systems  - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+
+* Computer Networks  - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+
+* Programming Laboratory III: Java and PHP Programming  - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+
+* Programming Laboratory IV: Android and Linux shell Programing  - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+
+* Elective Course  - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+
+* Project Work  - [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://www.youtube.com/)   [<img src =https://lh3.googleusercontent.com/1DECuhPQ1y2ppuL6tdEqNSuObIm_PW64w0mNhm3KGafi40acOJkc4nvsZnThoDKTH8gWyxAnipJmvCiszX8R6UAUu1UyXPfF13d7 height=15 width=15></img>](https://drive.google.com/)
+
 
 
 
