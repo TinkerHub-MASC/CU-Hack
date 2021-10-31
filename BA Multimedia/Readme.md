@@ -79,7 +79,7 @@
 <details>
    <summary>Semester 5</summary>
 <br>
-   
+
 * Techniques of Post Production – Visual Editing
 * Techniques of Post Production – Sound Recording, Editing and Mastering
 * Introduction to 3D Modeling and Texturing
