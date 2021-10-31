@@ -71,7 +71,14 @@
    <summary>Semester 5</summary>
 <br>
    
-* 
+* Computer Organization and
+Architecture
+* Java Programming
+* Web Programming Using PHP
+* Principles of Software Engineering
+* Open course 
+* Project work
+   
 
 
 
@@ -86,11 +93,18 @@
    <summary>Semester 6</summary>
 <br>
    
-* 
-
-
-
-
+* Android Programming
+* Operating Systems
+* Computer Networks
+* Programming Laboratory III:
+  Lab Exam of 5th Sem.
+  Java and PHP Programming
+* Programming Laboratory IV:
+  Android and Linux shell
+  Programming
+* Elective Course
+* Project work
+   
 
 </details>
 
