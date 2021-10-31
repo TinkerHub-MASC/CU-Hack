@@ -77,7 +77,12 @@
    <summary>Semester 4</summary>
 <br>
    
-* 
+* Introduction to Cinematography
+* Fundamentals of Web Designing
+* Journalism
+* Visual Communication
+* Introduction to Cinematography (Practical)
+* General Courses
 
 
 
@@ -91,20 +96,17 @@
 <details>
    <summary>Semester 5</summary>
 <br>
-   
-* Editing Principles-I(https://youtu.be/UsiQFEwMUyw?t=2)
 
-	
-* Introduction to Animation-I
+* Techniques of Post Production – Visual Editing
+* Techniques of Post Production – Sound Recording, Editing and Mastering
+* Introduction to 3D Modeling and Texturing
+* Advance Web Designing
+* Techniques of Post Production – Visual Editing (Practical)
+* Techniques of Post Production – Sound Recording, Editing and Mastering (Practical)
+* Introduction to 3D Modeling and Texturing & Advance Web Designing (Practical)
+* Fundamentals of Multimedia
+* Open Course
 
-	
-* Media Ethics (https://youtu.be/-qf8gVtdEXs)
-
-	
-* Print Journalism(https://youtu.be/x64wziWkC84?t=3)
-
-	
-* Scenic Design: Film and Television-II
 </details>
 
 ******
