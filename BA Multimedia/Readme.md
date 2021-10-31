@@ -60,7 +60,12 @@
    <summary>Semester 4</summary>
 <br>
    
-* 
+* Introduction to Cinematography
+* Fundamentals of Web Designing
+* Journalism
+* Visual Communication
+* Introduction to Cinematography (Practical)
+* General Courses
 
 
 
