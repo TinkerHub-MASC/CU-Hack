@@ -34,6 +34,7 @@
 * Programming Laboratory 1: HTML and programming in C
 * Complementary Mathematics 2
 * Optional complementary 2
+* arabic 
 
 </details>
 
