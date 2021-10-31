@@ -12,6 +12,7 @@
 * Computer fundamentals & HTML 
 * Complementary mathematics 1 
 * Optional complementary 1 (Statistics)
+* arabic 
 
 
 
@@ -33,6 +34,7 @@
 * Programming Laboratory 1: HTML and programming in C
 * Complementary Mathematics 2
 * Optional complementary 2
+* arabic 
 
 </details>
 
