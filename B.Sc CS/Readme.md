@@ -12,6 +12,7 @@
 * Computer fundamentals & HTML 
 * Complementary mathematics 1 
 * Optional complementary 1 (Statistics)
+* arabic 
 
 
 
