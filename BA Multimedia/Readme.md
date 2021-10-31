@@ -80,7 +80,15 @@
    <summary>Semester 5</summary>
 <br>
    
-* 
+* Techniques of Post Production – Visual Editing
+* Techniques of Post Production – Sound Recording, Editing and Mastering
+* Introduction to 3D Modeling and Texturing
+* Advance Web Designing
+* Techniques of Post Production – Visual Editing (Practical)
+* Techniques of Post Production – Sound Recording, Editing and Mastering (Practical)
+* Introduction to 3D Modeling and Texturing & Advance Web Designing (Practical)
+* Fundamentals of Multimedia
+* Open Course
 
 
 
