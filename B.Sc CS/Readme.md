@@ -27,14 +27,14 @@
    <summary>Semester 2</summary>
 <br>
 
-* Common English
-* Common English 
-* Literature in Languages other than English   
+* Common English  [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://youtu.be/aQEPc5R87wY)
+* Common English [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://youtu.be/aQEPc5R87wY)
+* Literature in Languages other than English  [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://youtu.be/aQEPc5R87wY) 
 * Problem solving using C 
-* Programming Laboratory 1: HTML and programming in C
-* Complementary Mathematics 2
-* Optional complementary 2
-* arabic 
+* Programming Laboratory 1: HTML and programming in C [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://youtu.be/aQEPc5R87wY)
+* Complementary Mathematics 2 [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://youtu.be/aQEPc5R87wY)
+* Optional complementary 2 [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://youtu.be/aQEPc5R87wY)
+* arabic [<img src =https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4 height=15 width=15></img>](https://youtu.be/aQEPc5R87wY)
 
 </details>
 
