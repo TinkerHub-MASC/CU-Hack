@@ -1,4 +1,4 @@
-![logo](https://github.com/TinkerHub-MASC/CU-Hack/files/9709246/Hacktoberfest.-.Presentation.Template.2022.Event.Kit.pptx)
+![logo](https://i.postimg.cc/25QVByRr/Email-Banners-Lite.png)
 
 # CU-Hack
 <h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
